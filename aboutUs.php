@@ -23,7 +23,7 @@
 	</div>
 	
 	<div class="col-lg-6 col-12" id="about-col">
-	<div class="about-wrapper py-3 my-5" id="about-wrapper">
+	<div class="about-wrapper" id="about-wrapper">
 	
 		<div id="about-us">
 		<p style="font-weight:1000; margin-bottom:20px;">We established this website to guide individuals through recent events that took place as a consequence of the Covid-19 global pandemic. The mental health of many individuals have deteriorated following the numerous movement control orders that were placed. Hence, we aim to provide support to those in need during this trying time.</p>
